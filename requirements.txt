@@ -1,0 +1,9 @@
+# Jeon et al. 2019 《Compact Snapshot Hyperspectral Imaging with Diffracted Rotation》
+# 复现项目依赖清单 (已在 Python 3.10.4 Windows 环境下实机验证通过)
+
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+torch>=2.0.0
+pillow>=9.5.0
+pymupdf>=1.20.0

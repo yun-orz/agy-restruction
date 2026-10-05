@@ -1,0 +1,23 @@
+{
+    "timestamp": "2026-10-05 15:06:02",
+    "optical_parameters": {
+        "focal_length_mm": 50.0,
+        "aperture_diameter_mm": 1.0,
+        "wavelength_min_nm": 420.0,
+        "wavelength_max_nm": 660.0,
+        "num_wavelengths": 25,
+        "num_wings": 3,
+        "quantization_levels": 16
+    },
+    "detector_parameters": {
+        "pixel_pitch_um": 6.22,
+        "sensor_type": "rgb",
+        "noise_std": 0.005
+    },
+    "reconstruction_metrics": {
+        "PSNR_dB": 17.555697000301652,
+        "SSIM": 0.5980449140071868,
+        "SAM_rad": 0.32202252260552844,
+        "reconstruction_time_sec": 1.1526010036468506
+    }
+}

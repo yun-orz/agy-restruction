@@ -1,0 +1,30 @@
+{
+    "diffraction_scales": {
+        "wavelength_nm": 550.0,
+        "focal_length_mm": 50.0,
+        "aperture_diameter_mm": 1.0,
+        "detector_pixel_pitch_um": 6.22,
+        "fresnel_number": 9.09090909090909,
+        "airy_radius_um": 33.55,
+        "airy_diameter_um": 67.1,
+        "airy_diameter_pixels": 10.787781350482314
+    },
+    "energy_conservation": {
+        "mean_energy": 6.750051669208399e-07,
+        "min_energy": 6.208296204285619e-07,
+        "max_energy": 7.018750145795969e-07,
+        "energy_std": 2.38354760011973e-08,
+        "energy_relative_variation": 0.03531154599886576,
+        "is_conserved": true
+    },
+    "sampling_convergence": {
+        "grid_512_vs_1024_relative_error": 0.0012876661621084497,
+        "is_converged": true
+    },
+    "rotation_calibration": {
+        "slope_deg_per_nm": 0.02298437561076961,
+        "intercept_deg": 70.38010700512558,
+        "linear_correlation_r": 0.055699225660209545,
+        "angular_span_deg": 111.79501595488887
+    }
+}
